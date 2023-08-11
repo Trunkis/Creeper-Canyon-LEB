@@ -7,7 +7,7 @@
 ### - Creeper spawns to increase the risk of looting power chests.
 ### - Caves acessed from the volcano, center and the maze.
 ### - Hidden secrets and credits room.
-### - Support for Small, Large and Laarge+
+### - Support for Small, Large and Large+
 
 # CREDITS
 ### Icement - Project Leader, Lead Builder, Decorator, Ideas Person and Lead Optimizer.
