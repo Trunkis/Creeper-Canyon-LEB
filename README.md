@@ -1,5 +1,21 @@
+# [This is an work in progress map! This means that there will be no .lebmod available to download.]
 # Creeper-Canyon-LEB
 ## An off-limits canyon famous for unexplained explosion deaths. Most vistiors that visit the Creeper Canyon can die or escape badly injured. There's no reason why this happens but it happens for unknown reasons. Enter with caution.
+
+# MAP FEATURES
+### - 2 Mazes. an easy one and a more hardish one.
+### - Creeper spawns to increase the risk of looting power chests.
+### - Caves acessed from the volcano, center and the maze.
+### - Hidden secrets and credits room.
+### - Support for Small, Large and Laarge+
+
+# CREDITS
+### Icement - Project Leader, Lead Builder, Decorator, Ideas Person and Lead Optimizer.
+### cody5325 - Major Builder, Hider of Secrets, Decorator and Ideas Person.
+### NorthSideYT (AC07YT/Alf-Coe) - Builder, Minor Optimizer and Ideas Person
+### WalnutElf826490/MrNine-ATV [Bedrock Edition!] - Builder
+### ElekTrickalX - Builder
+### PremiereYeti - Minor Builder
 
 ![Screenshot (433)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/02659363-ba48-4de0-9359-a93afd198daa)
 
