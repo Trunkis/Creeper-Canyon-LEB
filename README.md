@@ -12,11 +12,12 @@
 # CREDITS
 ### Icement - Project Leader, Lead Builder, Decorator, Ideas Person and Lead Optimizer.
 ### cody5325 - Major Builder, Hider of Secrets, Decorator and Ideas Person.
-### NorthSideYT (AC07YT/Alf-Coe) - Builder, Minor Optimizer and Ideas Person
-### WalnutElf826490/MrNine-ATV [Bedrock Edition!] - Builder
-### ElekTrickalX - Builder
-### PremiereYeti - Minor Builder
+### NorthSideYT (AC07YT/Alf-Coe) - Builder, Minor Optimizer and Ideas Person. "Best one of them all"
+### WalnutElf826490/MrNine-ATV [Bedrock Edition!] - Builder.
+### ElekTrickalX - Caves Builder.
+### PremiereYeti - Minor Builder.
 
+# SCREENSHOTS
 ![Screenshot (433)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/02659363-ba48-4de0-9359-a93afd198daa)
 
 ![Screenshot (439)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/f1429272-c7b7-47b2-a6b4-b55a23219cdc)
