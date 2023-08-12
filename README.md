@@ -8,9 +8,10 @@
 ### - Caves acessed from the volcano, center and the maze.
 ### - Hidden secrets and credits room.
 ### - Support for Small, Large and Large+
-### - Heavily optimized in file size
+### - Heavily optimized in file size 
+### (gone to extended lengths and removed all/most of useless blocks, trimmed and removed all useless files.)
 
-# CREDITS
+# CREDITS | MOST CONTRIBUTED TO LEAST CONTRIBUTED
 ### Icement - Project Leader, Lead Builder, Decorator, Ideas Person and Lead Optimizer.
 ### cody5325 - Major Builder, Hider of Secrets, Decorator and Ideas Person.
 ### NorthSideYT (AC07YT/Alf-Coe) - Builder, Minor Optimizer and Ideas Person. "Best one of them all"
