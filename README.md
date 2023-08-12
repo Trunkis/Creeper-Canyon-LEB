@@ -1,5 +1,5 @@
 # [This is an work in progress map! This means that there will be no .lebmod available to download.]
-# Creeper Canyon, a heavily optimized LEB map
+# Creeper Canyon
 ## An off-limits canyon famous for unexplained explosion deaths. Most vistiors that visit the Creeper Canyon die. There's no reason why this happens but it happens for unknown reasons. Enter with caution.
 
 # MAP FEATURES
@@ -8,6 +8,7 @@
 ### - Caves acessed from the volcano, center and the maze.
 ### - Hidden secrets and credits room.
 ### - Support for Small, Large and Large+
+### - Heavily optimized in file size
 
 # CREDITS
 ### Icement - Project Leader, Lead Builder, Decorator, Ideas Person and Lead Optimizer.
