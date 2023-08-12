@@ -1,6 +1,6 @@
 # [This is an work in progress map! This means that there will be no .lebmod available to download.]
-# Creeper-Canyon-LEB
-## An off-limits canyon famous for unexplained explosion deaths. Most vistiors that visit the Creeper Canyon can die or escape badly injured. There's no reason why this happens but it happens for unknown reasons. Enter with caution.
+# Creeper Canyon, a heavily optimized LEB map
+## An off-limits canyon famous for unexplained explosion deaths. Most vistiors that visit the Creeper Canyon die. There's no reason why this happens but it happens for unknown reasons. Enter with caution.
 
 # MAP FEATURES
 ### - 2 Mazes. an easy one and a more hardish one.
