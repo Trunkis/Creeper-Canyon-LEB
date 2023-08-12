@@ -1,4 +1,4 @@
-## [This is an work in progress map! A.lebmod is not available to download.]
+## [This is an work in progress map! A .lebmod is not available to download.]
 # Creeper Canyon
 ## An off-limits canyon famous for unexplained explosion deaths. Most vistiors that visit the Creeper Canyon die. There's no reason why this happens but it happens for unknown reasons. Enter with caution.
 
