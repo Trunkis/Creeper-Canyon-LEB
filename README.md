@@ -24,3 +24,5 @@
 ![Screenshot (439)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/f1429272-c7b7-47b2-a6b4-b55a23219cdc)
 
 ![Screenshot (440)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/6eba3cea-0d9a-49be-9a31-0a7aaf393248)
+
+![Screenshot (443)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/f555e349-56da-4f63-90fc-fd485a1c5f7d)
