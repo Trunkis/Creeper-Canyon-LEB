@@ -9,6 +9,7 @@
 ### - Hidden secrets and credits room.
 ### - Support for Small, Large and Large+
 ### - Heavily optimized in file size  (gone to extended lengths and removed all/most of useless blocks, trimmed and removed all useless files.)
+### - 3 World sizes available to download for both Java and Bedrock Edition.
 
 # CREDITS | MOST CONTRIBUTED TO LEAST CONTRIBUTED
 ### Icement - Project Leader, Lead Builder, Decorator, Ideas Person and Lead Optimizer.
