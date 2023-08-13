@@ -6,7 +6,7 @@
 ### - 2 Mazes. an easy one and a more hardish one.
 ### - Creeper spawns to increase the risk of looting power chests.
 ### - Caves acessed from the volcano, center and the maze.
-### - Hidden secrets and credits room.
+### - Hidden secrets and credits room + a Music Disc room.
 ### - Support for Small, Large and Large+
 ### - Heavily optimized in file size  (gone to extended lengths and removed all/most of useless blocks, trimmed and removed all useless files.)
 ### - 3 World sizes available to download for both Java and Bedrock Edition.
@@ -30,3 +30,5 @@
 ![Screenshot (450)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/0458bda7-b6f9-4dcb-aaee-6683db54d378)
 
 ![Screenshot (449)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/04a894d2-d26b-4510-a3a7-46d9d0b8c5e2)
+
+![Screenshot (451)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/2427cd5e-35fe-4bd6-ac26-fee2d80662ee)
