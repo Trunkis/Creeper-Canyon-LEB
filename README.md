@@ -4,11 +4,11 @@
 
 # MAP FEATURES
 ### - 2 Mazes. an easy one and a more hardish one.
-### - Creeper spawns to increase the risk of looting power chests. (Time and amount different for each sizes)
+### - Creeper spawns to increase the risk of looting power chests. (Time and amount are different for each sizes)
 ### - Caves acessed from the volcano, center and the maze.
 ### - Hidden secrets and credits room + a Music Disc room.
 ### - Support for Small, Large and Large+
-### - Heavily optimized in file size  (gone to extended lengths and removed all/most of useless blocks, trimmed and removed all useless files.)
+### - Heavily optimized in file size  (Gone to extended lengths and removed all/most of useless blocks, trimmed and removed all useless files)
 ### - 3 World sizes available to download for both Java and Bedrock Edition.
 
 # CREDITS | MOST CONTRIBUTED TO LEAST CONTRIBUTED
