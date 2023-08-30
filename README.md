@@ -4,7 +4,7 @@
 
 # MAP FEATURES
 ### - 2 Mazes. an easy one and a more hardish one.
-### - Creeper spawns to increase the risk of looting power chests. (Time and amount are different for each sizes)
+### - Creeper spawns to increase the risk of looting power chests. (Large: 1m 40s | LargePlus: 1m 20s | Small: 2m)
 ### - Caves acessed from the volcano, center and the maze.
 ### - Hidden secrets and credits room + a Music Disc room.
 ### - Support for Small, Large and Large+
