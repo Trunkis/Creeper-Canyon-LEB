@@ -1,23 +1,23 @@
-## [This is an work in progress map! A .lebmod is not available to download.]
+## [Work in progress! An .lebmod is not available.]
 # Creeper Canyon
-## An off-limits canyon famous for unexplained explosion deaths. Most vistiors that visit the Creeper Canyon die. There's no reason why this happens but it happens for unknown reasons. Enter with caution.
+## An off-limits canyon famous for unexplained explosion deaths. Most vistiors that visit the Creeper Canyon dissapear without a trace. There's no reason why this happens but it happens for unknown reasons. Enter with caution.
 
 # MAP FEATURES
 ### - 2 Mazes. an easy one and a more hardish one.
 ### - Creeper spawns to increase the risk of looting power chests. (Large: 1m 40s | LargePlus: 1m 20s | Small: 2m)
 ### - Caves acessed from the volcano, center and the maze.
-### - Hidden secrets and credits room + a Music Disc room.
+### - Hidden secrets and credits room.
 ### - Support for Small, Large and Large+
-### - Heavily optimized in file size  (Gone to extended lengths and removed all/most of useless blocks, trimmed and removed all useless files)
+### - Heavily optimized in file size (Gone to extended lengths and removed all/most of useless blocks, trimmed and removed all useless files)
 ### - 3 World sizes available to download for both Java and Bedrock Edition.
 
 # CREDITS | MOST CONTRIBUTED TO LEAST CONTRIBUTED
-### Icement - Project Leader, Lead Builder, Decorator, Ideas Person and Lead Optimizer.
-### cody5325 - Major Builder, Hider of Secrets, Decorator and Ideas Person.
-### NorthSideYT (AC07YT/Alf-Coe) - Builder, Minor Optimizer and Ideas Person. "Best one of them all"
-### WalnutElf826490/MrNine-ATV [Bedrock Edition!] - Builder.
-### ElekTrickalX - Caves Builder.
-### PremiereYeti - Minor Builder.
+### Icement - Project Creator, Lead Builder - General, Decorator, Optimizer and Data Pack Creator.
+### cody5325 - Major Builder - General, Hider of Secrets and Decorator.
+### NorthSideYT (AC07YT/Alf-Coe) - Builder - General, Decorator, Optimizer and Ideas Person. "Best one of them all" -NorthSideYT
+### WalnutElf826490/MrNine-ATV [Bedrock Edition!] - Builder - General.
+### ElekTrickalX - Minor Builder - Caves.
+### PremiereYeti - Minor Builder - General.
 
 # SCREENSHOTS
 
