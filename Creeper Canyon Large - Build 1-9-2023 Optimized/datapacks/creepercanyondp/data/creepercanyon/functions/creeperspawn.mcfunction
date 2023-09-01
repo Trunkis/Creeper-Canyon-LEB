@@ -5,7 +5,7 @@ summon minecraft:creeper 296 16 236
 summon minecraft:creeper 254 21 303
 summon minecraft:creeper 289 15 236
 summon minecraft:creeper 264 8 283
-summon minecraft:creeper 274 -29 248 ##Death Area
+summon minecraft:creeper 274 -29 248
 
 ##Warn the players again
 title @a actionbar {"text":"The hisses are suddenly alot closer."}
