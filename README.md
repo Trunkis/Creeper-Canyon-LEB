@@ -20,15 +20,11 @@
 ### PremiereYeti - Minor Builder - General.
 
 # SCREENSHOTS
-
-![Screenshot (446)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/c7462bbc-b18f-4293-b262-a790c240a968)
-
-![Screenshot (447)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/f31835c9-7618-4215-9194-abd8335f26b4)
-
-![Screenshot (448)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/c02eb200-e489-422a-8257-5cc1a0127a26)
-
-![Screenshot (450)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/0458bda7-b6f9-4dcb-aaee-6683db54d378)
-
-![Screenshot (449)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/04a894d2-d26b-4510-a3a7-46d9d0b8c5e2)
-
-![Screenshot (451)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/2427cd5e-35fe-4bd6-ac26-fee2d80662ee)
+![Screenshot (530)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/f2709bd5-bd1d-4d15-892e-2c9f43012362)
+![Screenshot (531)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/2b78531c-49b1-438a-b046-ef4039d36d4b)
+![Screenshot (532)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/b7ca74fe-0a81-462b-987b-8593b74fd684)
+![Screenshot (533)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/8b6bf813-f53e-47e2-94bf-9875f7f43915)
+![Screenshot (534)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/11e89281-377f-462f-bffb-5c1c3cc69b40)
+![Screenshot (535)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/911b8e50-2edc-4e90-a261-1a820e6b2f41)
+![Screenshot (536)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/3ca63f2d-1611-4e45-8d91-319d25a16b66)
+![Screenshot (537)](https://github.com/Trunkis/Creeper-Canyon-LEB/assets/121296120/f6ffc61d-d4ba-4e4f-a4ed-a0dfaaeedc05)
