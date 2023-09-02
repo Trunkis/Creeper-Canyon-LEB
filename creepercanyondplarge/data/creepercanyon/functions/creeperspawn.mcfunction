@@ -2,7 +2,7 @@
 summon minecraft:creeper 242 15 312
 summon minecraft:creeper 293 15 217
 summon minecraft:creeper 296 16 236
-summon minecraft:creeper 254 21 303
+summon minecraft:creeper 253 9 292
 summon minecraft:creeper 289 15 236
 summon minecraft:creeper 264 8 283
 summon minecraft:creeper 274 -29 248
